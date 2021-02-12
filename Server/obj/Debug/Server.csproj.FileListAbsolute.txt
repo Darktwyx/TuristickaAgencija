@@ -1,0 +1,85 @@
+C:\Users\Pedja\source\repos\Domen\Server\bin\Debug\Server.exe.config
+C:\Users\Pedja\source\repos\Domen\Server\bin\Debug\Server.exe
+C:\Users\Pedja\source\repos\Domen\Server\bin\Debug\Server.pdb
+C:\Users\Pedja\source\repos\Domen\Server\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Domen\Server\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.exe
+C:\Users\Pedja\source\repos\Domen\Server\obj\Debug\Server.pdb
+C:\Users\Pedja\source\repos\Template\Server\bin\Debug\Server.exe.config
+C:\Users\Pedja\source\repos\Template\Server\bin\Debug\Server.exe
+C:\Users\Pedja\source\repos\Template\Server\bin\Debug\Server.pdb
+C:\Users\Pedja\source\repos\Template\Server\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Template\Server\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\ServerConsole.FormaServer.resources
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.exe
+C:\Users\Pedja\source\repos\Template\Server\obj\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\bin\Debug\Server.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\bin\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\bin\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\ServerConsole.FormaServer.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Server\obj\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\bin\Debug\Server.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\bin\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\bin\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\ServerConsole.FormaServer.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Server\obj\Debug\Server.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\bin\Debug\Server.exe.config
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\bin\Debug\Server.exe
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\bin\Debug\Server.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\bin\Debug\Domen.dll
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\bin\Debug\Domen.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\ServerConsole.FormaServer.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.exe
+C:\Users\ARSA\Downloads\TuristickaAgencija\Server\obj\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\bin\Debug\Server.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\bin\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\bin\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\ServerConsole.FormaServer.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Server\obj\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\ServerConsole.FormaServer.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\obj\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\bin\Debug\Server.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\bin\Debug\Server.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\bin\Debug\Server.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Server\bin\Debug\Domen.pdb

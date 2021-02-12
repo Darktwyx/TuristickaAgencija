@@ -1,0 +1,33 @@
+C:\Users\Pedja\source\repos\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Domen\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Template\Domen\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Template\Domen\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Template\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Template\Domen\obj\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Template\Domen\obj\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Domen\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Domen\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Domen\obj\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Domen\obj\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\obj\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\obj\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\bin\Debug\Domen.dll
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\bin\Debug\Domen.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\obj\Debug\Domen.dll
+C:\Users\ARSA\Downloads\TuristickaAgencija\Domen\obj\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\obj\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Domen\obj\Debug\Domen.pdb

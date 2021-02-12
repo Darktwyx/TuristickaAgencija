@@ -1,0 +1,129 @@
+C:\Users\Pedja\source\repos\Domen\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Pedja\source\repos\Domen\Klijent\bin\Debug\Klijent.exe
+C:\Users\Pedja\source\repos\Domen\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Pedja\source\repos\Domen\Klijent\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Domen\Klijent\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.exe
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Pedja\source\repos\Domen\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Pedja\source\repos\Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Pedja\source\repos\Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\Pedja\source\repos\Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Pedja\source\repos\Template\Klijent\bin\Debug\Domen.dll
+C:\Users\Pedja\source\repos\Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\Pedja\source\repos\Template\Klijent\obj\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\bin\Debug\Klijent.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\bin\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\bin\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\Template - Projektni\Klijent\obj\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\bin\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTuristeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDestinacijeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaDestinacija.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosFakultativnogIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DodajFotografiju.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiDestinacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaFakultativnihIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Code\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosRezervacije.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\bin\Debug\Domen.dll
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\bin\Debug\Domen.pdb
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiDestinacije.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiRezervacije.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DodajFotografiju.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaDestinacija.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaFakultativnihIzleta.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaRezervacije.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavaForma.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDestinacijeForma.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosFakultativnogIzleta.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosRezervacije.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTuristeForma.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.exe
+C:\Users\ARSA\Downloads\TuristickaAgencija\Klijent\obj\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\bin\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiDestinacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DodajFotografiju.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaDestinacija.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaFakultativnihIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDestinacijeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosFakultativnogIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTuristeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\Arsa\TuristickaAgencija\Klijent\obj\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe.config
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\bin\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\bin\Debug\Klijent.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\bin\Debug\Domen.dll
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\bin\Debug\Domen.pdb
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiDestinacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DetaljiRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.DodajFotografiju.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PocetnaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaDestinacija.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaFakultativnihIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PretragaRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.PrijavaForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosDestinacijeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosFakultativnogIzleta.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosRezervacije.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.KorisnickiInterfejs.UnosTuristeForma.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.exe
+D:\FON\Projektovanje softvera\Seminarski radovi\Seminarski\TuristickaAgencija-v2.0\TuristickaAgencija\Klijent\obj\Debug\Klijent.pdb

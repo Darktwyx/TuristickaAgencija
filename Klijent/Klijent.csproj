@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{03E11B58-5BD7-416B-AA93-E1DC9F185DA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Klijent</RootNamespace>
+    <AssemblyName>Klijent</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KorisnickiInterfejs\DetaljiDestinacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\DetaljiDestinacije.Designer.cs">
+      <DependentUpon>DetaljiDestinacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\DetaljiRezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\DetaljiRezervacije.Designer.cs">
+      <DependentUpon>DetaljiRezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\DodajFotografiju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\DodajFotografiju.Designer.cs">
+      <DependentUpon>DodajFotografiju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PocetnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PocetnaForma.Designer.cs">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaDestinacija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaDestinacija.Designer.cs">
+      <DependentUpon>PretragaDestinacija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaFakultativnihIzleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaFakultativnihIzleta.Designer.cs">
+      <DependentUpon>PretragaFakultativnihIzleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaRezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PretragaRezervacije.Designer.cs">
+      <DependentUpon>PretragaRezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PrijavaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\PrijavaForma.Designer.cs">
+      <DependentUpon>PrijavaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KontrolerKorisnickogInterfejsa.cs" />
+    <Compile Include="KorisnickiInterfejs\UnosDestinacijeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosDestinacijeForma.Designer.cs">
+      <DependentUpon>UnosDestinacijeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosFakultativnogIzleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosFakultativnogIzleta.Designer.cs">
+      <DependentUpon>UnosFakultativnogIzleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosRezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosRezervacije.Designer.cs">
+      <DependentUpon>UnosRezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosTuristeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KorisnickiInterfejs\UnosTuristeForma.Designer.cs">
+      <DependentUpon>UnosTuristeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="KorisnickiInterfejs\DetaljiDestinacije.resx">
+      <DependentUpon>DetaljiDestinacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\DetaljiRezervacije.resx">
+      <DependentUpon>DetaljiRezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\DodajFotografiju.resx">
+      <DependentUpon>DodajFotografiju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\PocetnaForma.resx">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\PretragaDestinacija.resx">
+      <DependentUpon>PretragaDestinacija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\PretragaFakultativnihIzleta.resx">
+      <DependentUpon>PretragaFakultativnihIzleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\PretragaRezervacije.resx">
+      <DependentUpon>PretragaRezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\PrijavaForma.resx">
+      <DependentUpon>PrijavaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\UnosDestinacijeForma.resx">
+      <DependentUpon>UnosDestinacijeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\UnosFakultativnogIzleta.resx">
+      <DependentUpon>UnosFakultativnogIzleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\UnosRezervacije.resx">
+      <DependentUpon>UnosRezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KorisnickiInterfejs\UnosTuristeForma.resx">
+      <DependentUpon>UnosTuristeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{8e395ab4-9f84-4bcf-b3c1-4598ff5c8c98}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fly1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_image_not_available.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArrowLeft.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
